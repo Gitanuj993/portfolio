@@ -1,3 +1,4 @@
+
 # About AT 's Portfolio 
 It is a dedicated portfolio or Personal Website of Anuj!
 
@@ -35,7 +36,10 @@ cd portfolio
 4. Push your branch.
 5. Open a Pull Request.
 
-## License
 
-This project is licensed under the MIT License.
 
+## 📄 License
+
+This project is distributed under the MIT License. See `LICENSE` for more information.
+
+---
