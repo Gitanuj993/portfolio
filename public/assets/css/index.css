@@ -8,6 +8,11 @@ body {
     
 }
 
+#resume {
+    justify-content: center;
+    margin-left: 450px;
+}
+
 .resume-btn {
     background-color: #007bff;
     color: white;
