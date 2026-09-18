@@ -2,7 +2,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Portfolio&fontSize=45&animation=twinkling" alt="Banner" />
 
 ## Badges & info !
-?
+
+<a href="https://websitelaunches.com/site/anuj-tanwar.me" target="_blank" rel="noopener">
+  <img
+    src="https://websitelaunches.com/badge/anuj-tanwar.me.svg?theme=dark"
+    alt="Established online - Public launch record"
+    width="255"
+    height="55"
+  >
+</a>
 
 
 ## Features and Details
