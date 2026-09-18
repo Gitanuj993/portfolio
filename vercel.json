@@ -1,19 +1,19 @@
-// {
-// "redirects": [
-//     {
-//       "source": "/index.html",
-//       "destination": "/",
-//       "permanent": true
-//     }
-//   ],
-//   "rewrites": [
-//     {
-//       "source": "/(.*)",
-//       "destination": "/public/$1"
-//     }
-//   ],
-//   "cleanUrls": true,
-//   "git": {
-//     "deploymentEnabled": true
-//   }
-// }
+{
+"redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/public/$1"
+    }
+  ],
+  "cleanUrls": true,
+  "git": {
+    "deploymentEnabled": true
+  }
+}
