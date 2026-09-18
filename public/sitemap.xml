@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://gitanuj993.vercel.app/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://anuj-tanwar.me/</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://anuj-tanwar.me/about</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://anuj-tanwar.me/projects</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://anuj-tanwar.me/blogs</loc>
+    <lastmod>2026-09-18</lastmod>
   </url>
 
 </urlset>
